@@ -1,0 +1,71 @@
+* {
+    background-color: rgb(246, 246, 246)
+}
+
+#box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+}
+
+#Game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#vermelho {
+    background-color: rgb(241, 70, 70);
+    height: 150px;
+    width: 150px;
+    border-radius: 95px;
+}
+
+#verde {
+    background-color: rgb(145, 183, 145);
+    height: 150px;
+    width: 150px;
+    border-radius: 95px;
+}
+
+#amarelo {
+    background-color: rgb(255, 255, 111);
+    height: 150px;
+    width: 150px;
+    border-radius: 95px;
+}
+
+#azul {
+    background-color: rgb(160, 160, 255);
+    height: 150px;
+    width: 150px;
+    border-radius: 95px;
+}
+
+table td {
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+}
+
+button {
+    height: 55px;
+    width: 60px;
+    border-radius: 95px;
+    font-size: medium;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: -1px;
+}
+
+.action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
